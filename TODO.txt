@@ -3,3 +3,11 @@ TODO
     - Identify candidate web graphics libraries
     - Create mockup architecture diagram/design
 
+Project File Structure
+
+    /src/ -> source code
+    /lib/ -> library files
+    /res/ -> resource folder
+    /test/ -> source code tests
+    /sandbox/ -> sandbox folder for testing stuff out
+    
