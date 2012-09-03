@@ -1,0 +1,5 @@
+TODO
+    
+    - Identify candidate web graphics libraries
+    - Create mockup architecture diagram/design
+
